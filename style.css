@@ -4,7 +4,7 @@ html {
 }
 
 header {
-	background: rgb(231, 127, 42);
+	background: rgb(238, 154, 57);
 	height: 50PX;
 	padding: 20px 0;
 	width: 100%;
@@ -40,6 +40,12 @@ h4{
     margin-bottom: 10px;
 }
 
+#rodape {
+    height: 50px;
+    background-color: rgb(238, 154, 57);
+    clear: both;
+}
+
 #exercicio1 {
 	width: 50%;
     height: 600px;
@@ -62,7 +68,7 @@ p {
     font-size: 20px;
 }
 
-.imagemcomputacional {
+.imagemperfume {
     width: 35%;
     height: 400px;
     padding: 100px;
